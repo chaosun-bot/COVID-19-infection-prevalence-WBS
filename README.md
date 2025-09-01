@@ -17,7 +17,7 @@ Run notebooks in order:
 1. `01_data_exploration.ipynb` - Data analysis
 2. `02_xgboost_model.ipynb` - XGBoost models
 3. `03_lstm_model.ipynb` - LSTM models
-4. `04_stgcn_model.ipynb` - ST-GCN models
+4. `04_stgcn_model.ipynb` - STGCN models
 5. `05_results_analysis.ipynb` - Results comparison
 
 ## Data
