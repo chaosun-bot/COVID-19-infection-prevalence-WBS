@@ -1,0 +1,2 @@
+model_type,input_size,hidden_size,num_layers,total_parameters,train_samples,test_samples,train_mae,train_r2,train_rmse,test_mae,test_r2,test_rmse,best_test_loss,epochs_trained,feature_composition
+LSTM_With_Infection_Rates,16,64,2,56385,1625,665,0.008500305935816363,0.9923563895626943,0.012248619096642944,0.0223329208659424,0.9343384407811228,0.03243698420845973,0.05360499396920204,151,15_original + 1_infection_rate

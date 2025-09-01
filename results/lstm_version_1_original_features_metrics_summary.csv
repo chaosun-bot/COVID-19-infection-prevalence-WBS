@@ -1,0 +1,2 @@
+model_type,train_mae,train_r2,train_rmse,test_mae,test_r2,test_rmse,feature_count,sequence_length,features_per_timestep,sample_count,total_epochs,best_test_loss
+LSTM_v1_OriginalFeatures,0.04087332313117403,0.8634658493806656,0.051767656295126724,0.16734810361411842,-1.7375066401834314,0.20944136725052717,105,7,15,665,54,tensor(2.2349)

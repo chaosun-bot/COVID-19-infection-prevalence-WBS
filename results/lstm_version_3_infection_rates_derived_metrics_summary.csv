@@ -1,0 +1,2 @@
+model_type,train_mae,train_r2,train_rmse,test_mae,test_r2,test_rmse,feature_count,sequence_length,features_per_timestep,sample_count,total_epochs,best_test_loss
+LSTM_v3_InfectionRates_Derived,0.009790840737407441,0.9933744818448993,0.011403752448004024,0.01836462820029011,0.9563689733721034,0.026441286971665853,189,7,27,665,45,tensor(0.0356)
